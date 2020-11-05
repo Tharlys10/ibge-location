@@ -1,7 +1,7 @@
 # REALIZE UMA BUSCA DE TODAS AS CIDADES DO SEU ESTADO
 
 # INIT
-  flutter pub get
+  flutter pub get<br />
   flutter run
 
 # PACOTES PARA SEREM ADICIONADOS (https://pub.dev/, https://pub.dev/flutter/favorites)
